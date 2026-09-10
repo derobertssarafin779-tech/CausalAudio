@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-09-07T11:00:40.929634+00:00",
+  "protocol": "audio_prompt_without_audio_v1",
+  "configuration": {
+    "name": "gemini_2_5_flash_302",
+    "model": "gemini-2.5-flash",
+    "enable_thinking": false,
+    "seed": 42,
+    "max_retries": 3,
+    "timeout": 180.0
+  },
+  "manifest_sha256": "a2c2e0bbb2d7efed2939ef13e007f7011d9021bdc810139c44bca6b23e0c8c0c",
+  "prompt_module_sha256": "4882eeefc844bd5163b313b91f045090ec8333e67f8bf6cbab68f703ebdc5382",
+  "runner_sha256": "a387811faf2562c79f98d7fb3b524d1b200fdb3921e81855cc4c24b80aacf141",
+  "schedule_seed": null,
+  "run_fingerprint": "144c0b6d339a5d88b096fa4020cc90356120352e89cbd07c2b50d52526f02c7d"
+}

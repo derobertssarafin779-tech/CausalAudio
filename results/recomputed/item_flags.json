@@ -1,0 +1,4070 @@
+{
+  "A": {
+    "qwen_omni_nonthinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "qwen_omni_thinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        true,
+        true,
+        true
+      ]
+    },
+    "gemini_302_flash": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "gemini_302_pro": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        true
+      ]
+    }
+  },
+  "B": {
+    "qwen_omni_nonthinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "qwen_omni_thinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        true,
+        true,
+        true
+      ]
+    },
+    "gemini_302_flash": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    "gemini_302_pro": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        true
+      ]
+    }
+  },
+  "C": {
+    "qwen_omni_nonthinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "qwen_omni_thinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "gemini_302_flash": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        false,
+        true,
+        false,
+        null
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        false,
+        true,
+        null
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        true,
+        null
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ]
+    }
+  },
+  "D": {
+    "qwen_omni_nonthinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    "qwen_omni_thinking": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        true,
+        true,
+        true
+      ]
+    },
+    "gemini_302_flash": {
+      "0W-yXvpaXNM_00-03-23_00-03-51": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1F84y1i7jM_00-00-27_00-00-57": [
+        false,
+        true,
+        false,
+        null
+      ],
+      "kxWPzFEkv3o_00-00-00_00-00-12": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "8CDI_UdPLSQ_00-00-00_00-00-16": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1rgQMYfEW2_00-02-54_00-03-00": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "OdXmQoLL15w_00-00-00_00-00-09": [
+        true,
+        true,
+        true,
+        null
+      ],
+      "FktR_jf0EyU_00-00-00_00-00-25": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "BV19Y411Y781_00-00-01_00-00-19": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV1Kz4y1m7PX_00-00-50_00-01-20": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "BV17r4y1C7KB_00-00-28_00-00-58": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1624y1u7Fj_0-00_0-30": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "mJNRMhm_Bfc_00-00-00_00-00-29": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1v4dAY7EGc_00-01-00_00-01-30": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "dmxUu6PDD3c_00-00-00_00-00-03": [
+        true,
+        null,
+        false,
+        false
+      ],
+      "Yq61Ta2b7uE_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "NscY5s3yxiU_00-00-00_00-00-15": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "BV13C4y1N7w9_00-00-00_00-00-03": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "dPAQPD9x4DA_00-00-00_00-00-26": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1wC411L7B4_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "rgdTe8EzC4Y_00-00-02_00-00-31": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "BV1iHCoYTEGi_00-00-01_00-00-28": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "BV1gt4y1e7U5_00-00-52_00-01-16": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "BV1a4421F7Bx_00-02-31_00-02-46": [
+        false,
+        false,
+        true,
+        null
+      ],
+      "BV1fZ4y1W7ZU_1-42_1-47": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "QtIlD6uxwwk_00-00-33_00-00-40": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "a3RfULw7aAY_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV14v411z7oc_00-00-36_00-01-06": [
+        false,
+        true,
+        false,
+        null
+      ],
+      "BV1q34y1a7jG_00-00-03_00-00-10": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "oLWpgWuUaU4_00-10-35_00-11-05": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "aNfGZAqp29M_00-00-00_00-00-04": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "BV1Ju411u7sN_00-00-01_00-00-12": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "5SL4aoeSI14_00-00-00_00-00-15": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1Sg411v7Yr_00-21-07_00-21-14": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "MbhNbtbVUag_00-00-00_00-00-30": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1cZFzeqETG_00-08-00_00-08-08": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "BV1XHfPYnEjx_00-02-52_00-03-20": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "oxN1C2QQUIE_00-00-00_00-00-30": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "yMd3zFT6E_A_00-00-00_00-00-05": [
+        false,
+        true,
+        false,
+        null
+      ],
+      "L4HUTaExyfo_00-00-41_00-01-11": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "GQLBcczwI8s_00-00-00_00-00-30": [
+        false,
+        false,
+        true,
+        null
+      ],
+      "VqAnet0I1jg_00-00-00_00-00-17": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV1eL4y1h7bW_00-00-01_00-00-12": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "BV18h4y1o7wM_02-12-06_02-12-18": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "BV1v3411V7ES_00-00-00_00-00-20": [
+        false,
+        false,
+        false,
+        null
+      ],
+      "zoUVBrZzJ1c_00-00-00_00-00-16": [
+        true,
+        false,
+        true,
+        null
+      ],
+      "99UFStYNSjM_00-00-00_00-00-09": [
+        false,
+        false,
+        true,
+        null
+      ],
+      "BV1wA411q7H7_00-01-30_00-01-45": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "o7BZXrnbC1o_00-00-00_00-00-09": [
+        false,
+        false,
+        false,
+        true
+      ]
+    }
+  }
+}

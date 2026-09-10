@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-09-08T02:28:57.705598+00:00",
+  "protocol": "neutral_four_conditions_v1",
+  "configuration": {
+    "name": "qwen3_omni_flash_thinking",
+    "model": "qwen3-omni-flash",
+    "enable_thinking": true,
+    "seed": 42,
+    "max_retries": 3,
+    "timeout": 180.0
+  },
+  "manifest_sha256": "a2c2e0bbb2d7efed2939ef13e007f7011d9021bdc810139c44bca6b23e0c8c0c",
+  "prompt_module_sha256": "4882eeefc844bd5163b313b91f045090ec8333e67f8bf6cbab68f703ebdc5382",
+  "runner_sha256": "735e4666b171e18f1c0a1438a59110057f75d60be7f4deb887f33fa196ffc9e3",
+  "schedule_seed": 1729,
+  "run_fingerprint": "d8c33c22de05e09ef340c6ffdbe619c3a96bfda51dbeb0e98a4a9a10e67784f3"
+}

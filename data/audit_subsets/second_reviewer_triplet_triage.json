@@ -1,0 +1,58 @@
+[
+  {
+    "rawId": "dPAQPD9x4DA_00-00-00_00-00-26",
+    "group": "temporal",
+    "second_review_complete": true,
+    "second_supports_all_three_gold_labels": true,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "retain provisionally; document first-review disagreement internally"
+  },
+  {
+    "rawId": "VqAnet0I1jg_00-00-00_00-00-17",
+    "group": "counting",
+    "second_review_complete": true,
+    "second_supports_all_three_gold_labels": true,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "retain provisionally; document first-review disagreement internally"
+  },
+  {
+    "rawId": "0W-yXvpaXNM_00-03-23_00-03-51",
+    "group": "counting",
+    "second_review_complete": false,
+    "second_supports_all_three_gold_labels": false,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "drop: second reviewer could not complete this triplet"
+  },
+  {
+    "rawId": "BV1fZ4y1W7ZU_1-42_1-47",
+    "group": "signal",
+    "second_review_complete": true,
+    "second_supports_all_three_gold_labels": false,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "drop or adjudicate with an expert before use"
+  },
+  {
+    "rawId": "GQLBcczwI8s_00-00-00_00-00-30",
+    "group": "temporal",
+    "second_review_complete": true,
+    "second_supports_all_three_gold_labels": true,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "retain provisionally; document first-review disagreement internally"
+  },
+  {
+    "rawId": "oxN1C2QQUIE_00-00-00_00-00-30",
+    "group": "temporal",
+    "second_review_complete": true,
+    "second_supports_all_three_gold_labels": false,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "drop or adjudicate with an expert before use"
+  },
+  {
+    "rawId": "99UFStYNSjM_00-00-00_00-00-09",
+    "group": "counting",
+    "second_review_complete": true,
+    "second_supports_all_three_gold_labels": false,
+    "both_reviewers_support_all_three_gold_labels": false,
+    "recommended_action": "drop or adjudicate with an expert before use"
+  }
+]

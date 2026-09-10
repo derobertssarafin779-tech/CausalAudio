@@ -1,0 +1,3042 @@
+{
+  "A": {
+    "qwen_omni_nonthinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            40.90909090909091,
+            40.90909090909091
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            21,
+            21
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            95.45454545454545,
+            95.45454545454545
+          ],
+          "feasible_count_pairs": [
+            [
+              21,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            8,
+            8
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            16.666666666666668,
+            16.666666666666668
+          ],
+          "feasible_count_pairs": [
+            [
+              8,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            2,
+            2
+          ],
+          "denominator": [
+            8,
+            8
+          ],
+          "percent": [
+            25.0,
+            25.0
+          ],
+          "feasible_count_pairs": [
+            [
+              2,
+              8
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            8,
+            8
+          ],
+          "denominator": [
+            8,
+            8
+          ],
+          "percent": [
+            100.0,
+            100.0
+          ],
+          "feasible_count_pairs": [
+            [
+              8,
+              8
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            2,
+            2
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            4.166666666666667,
+            4.166666666666667
+          ],
+          "feasible_count_pairs": [
+            [
+              2,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          1,
+          1
+        ],
+        "C": [
+          6,
+          6
+        ],
+        "P": [
+          0,
+          0
+        ],
+        "T": [
+          6,
+          6
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "primary_parser": 192
+      },
+      "text_correct": 22,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV17r4y1C7KB_00-00-28_00-00-58",
+        "BV1wC411L7B4_00-00-00_00-00-15"
+      ],
+      "possible_passes": [
+        "BV17r4y1C7KB_00-00-28_00-00-58",
+        "BV1wC411L7B4_00-00-00_00-00-15"
+      ]
+    },
+    "qwen_omni_thinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            20,
+            20
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            41.666666666666664,
+            41.666666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              20,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            50.0,
+            50.0
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            15,
+            15
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            75.0,
+            75.0
+          ],
+          "feasible_count_pairs": [
+            [
+              15,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            19,
+            19
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            39.583333333333336,
+            39.583333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              19,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            18.75,
+            18.75
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            5,
+            5
+          ],
+          "denominator": [
+            9,
+            9
+          ],
+          "percent": [
+            55.55555555555556,
+            55.55555555555556
+          ],
+          "feasible_count_pairs": [
+            [
+              5,
+              9
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            9,
+            9
+          ],
+          "percent": [
+            66.66666666666667,
+            66.66666666666667
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              9
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            2,
+            2
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            4.166666666666667,
+            4.166666666666667
+          ],
+          "feasible_count_pairs": [
+            [
+              2,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          1,
+          1
+        ],
+        "C": [
+          4,
+          4
+        ],
+        "P": [
+          3,
+          3
+        ],
+        "T": [
+          5,
+          5
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "primary_parser": 192
+      },
+      "text_correct": 19,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ],
+      "possible_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ]
+    },
+    "gemini_302_flash": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            20,
+            20
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            41.666666666666664,
+            41.666666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              20,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            30.0,
+            30.0
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            11,
+            11
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            55.0,
+            55.0
+          ],
+          "feasible_count_pairs": [
+            [
+              11,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            15,
+            15
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            31.25,
+            31.25
+          ],
+          "feasible_count_pairs": [
+            [
+              15,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            16,
+            16
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            33.333333333333336,
+            33.333333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              16,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            4,
+            4
+          ],
+          "denominator": [
+            16,
+            16
+          ],
+          "percent": [
+            25.0,
+            25.0
+          ],
+          "feasible_count_pairs": [
+            [
+              4,
+              16
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            16,
+            16
+          ],
+          "percent": [
+            56.25,
+            56.25
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              16
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            2,
+            2
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            4.166666666666667,
+            4.166666666666667
+          ],
+          "feasible_count_pairs": [
+            [
+              2,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          0,
+          0
+        ],
+        "C": [
+          7,
+          7
+        ],
+        "P": [
+          2,
+          2
+        ],
+        "T": [
+          0,
+          0
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "primary_parser": 192
+      },
+      "text_correct": 15,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV13C4y1N7w9_00-00-00_00-00-03",
+        "BV1Ju411u7sN_00-00-01_00-00-12"
+      ],
+      "possible_passes": [
+        "BV13C4y1N7w9_00-00-00_00-00-03",
+        "BV1Ju411u7sN_00-00-01_00-00-12"
+      ]
+    },
+    "gemini_302_pro": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            28,
+            28
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            58.333333333333336,
+            58.333333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              28,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            13,
+            13
+          ],
+          "denominator": [
+            28,
+            28
+          ],
+          "percent": [
+            46.42857142857143,
+            46.42857142857143
+          ],
+          "feasible_count_pairs": [
+            [
+              13,
+              28
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            23,
+            23
+          ],
+          "denominator": [
+            28,
+            28
+          ],
+          "percent": [
+            82.14285714285714,
+            82.14285714285714
+          ],
+          "feasible_count_pairs": [
+            [
+              23,
+              28
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            17,
+            17
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            35.416666666666664,
+            35.416666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              17,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            14,
+            14
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            29.166666666666668,
+            29.166666666666668
+          ],
+          "feasible_count_pairs": [
+            [
+              14,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            7,
+            7
+          ],
+          "denominator": [
+            14,
+            14
+          ],
+          "percent": [
+            50.0,
+            50.0
+          ],
+          "feasible_count_pairs": [
+            [
+              7,
+              14
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            11,
+            11
+          ],
+          "denominator": [
+            14,
+            14
+          ],
+          "percent": [
+            78.57142857142857,
+            78.57142857142857
+          ],
+          "feasible_count_pairs": [
+            [
+              11,
+              14
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            5,
+            5
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            10.416666666666666,
+            10.416666666666666
+          ],
+          "feasible_count_pairs": [
+            [
+              5,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          2,
+          2
+        ],
+        "C": [
+          6,
+          6
+        ],
+        "P": [
+          2,
+          2
+        ],
+        "T": [
+          5,
+          5
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "primary_parser": 192
+      },
+      "text_correct": 17,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1v4dAY7EGc_00-01-00_00-01-30",
+        "FktR_jf0EyU_00-00-00_00-00-25",
+        "OdXmQoLL15w_00-00-00_00-00-09",
+        "QtIlD6uxwwk_00-00-33_00-00-40"
+      ],
+      "possible_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1v4dAY7EGc_00-01-00_00-01-30",
+        "FktR_jf0EyU_00-00-00_00-00-25",
+        "OdXmQoLL15w_00-00-00_00-00-09",
+        "QtIlD6uxwwk_00-00-33_00-00-40"
+      ]
+    }
+  },
+  "B": {
+    "qwen_omni_nonthinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            40.90909090909091,
+            40.90909090909091
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            21,
+            21
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            95.45454545454545,
+            95.45454545454545
+          ],
+          "feasible_count_pairs": [
+            [
+              21,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            20,
+            20
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            41.666666666666664,
+            41.666666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              20,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            11,
+            11
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            22.916666666666668,
+            22.916666666666668
+          ],
+          "feasible_count_pairs": [
+            [
+              11,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            3,
+            3
+          ],
+          "denominator": [
+            11,
+            11
+          ],
+          "percent": [
+            27.272727272727273,
+            27.272727272727273
+          ],
+          "feasible_count_pairs": [
+            [
+              3,
+              11
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            11,
+            11
+          ],
+          "denominator": [
+            11,
+            11
+          ],
+          "percent": [
+            100.0,
+            100.0
+          ],
+          "feasible_count_pairs": [
+            [
+              11,
+              11
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            3,
+            3
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            6.25,
+            6.25
+          ],
+          "feasible_count_pairs": [
+            [
+              3,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          1,
+          1
+        ],
+        "C": [
+          8,
+          8
+        ],
+        "P": [
+          0,
+          0
+        ],
+        "T": [
+          5,
+          5
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 48
+      },
+      "text_correct": 20,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV17r4y1C7KB_00-00-28_00-00-58",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "OdXmQoLL15w_00-00-00_00-00-09"
+      ],
+      "possible_passes": [
+        "BV17r4y1C7KB_00-00-28_00-00-58",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "OdXmQoLL15w_00-00-00_00-00-09"
+      ]
+    },
+    "qwen_omni_thinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            20,
+            20
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            41.666666666666664,
+            41.666666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              20,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            50.0,
+            50.0
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            15,
+            15
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            75.0,
+            75.0
+          ],
+          "feasible_count_pairs": [
+            [
+              15,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            18,
+            18
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            37.5,
+            37.5
+          ],
+          "feasible_count_pairs": [
+            [
+              18,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            18.75,
+            18.75
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            9,
+            9
+          ],
+          "percent": [
+            66.66666666666667,
+            66.66666666666667
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              9
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            9,
+            9
+          ],
+          "percent": [
+            66.66666666666667,
+            66.66666666666667
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              9
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            3,
+            3
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            6.25,
+            6.25
+          ],
+          "feasible_count_pairs": [
+            [
+              3,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          1,
+          1
+        ],
+        "C": [
+          3,
+          3
+        ],
+        "P": [
+          3,
+          3
+        ],
+        "T": [
+          4,
+          4
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 48
+      },
+      "text_correct": 18,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "QtIlD6uxwwk_00-00-33_00-00-40",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ],
+      "possible_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "QtIlD6uxwwk_00-00-33_00-00-40",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ]
+    },
+    "gemini_302_flash": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            20,
+            20
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            41.666666666666664,
+            41.666666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              20,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            30.0,
+            30.0
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            11,
+            11
+          ],
+          "denominator": [
+            20,
+            20
+          ],
+          "percent": [
+            55.0,
+            55.0
+          ],
+          "feasible_count_pairs": [
+            [
+              11,
+              20
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            16,
+            17
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            33.333333333333336,
+            35.416666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              16,
+              48
+            ],
+            [
+              17,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            20.833333333333332,
+            20.833333333333332
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            3,
+            3
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            30.0,
+            30.0
+          ],
+          "feasible_count_pairs": [
+            [
+              3,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            4,
+            4
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            40.0,
+            40.0
+          ],
+          "feasible_count_pairs": [
+            [
+              4,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            0,
+            0
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            0.0,
+            0.0
+          ],
+          "feasible_count_pairs": [
+            [
+              0,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          0,
+          0
+        ],
+        "C": [
+          4,
+          4
+        ],
+        "P": [
+          3,
+          3
+        ],
+        "T": [
+          2,
+          2
+        ]
+      },
+      "unknown_constraints": 1,
+      "unknown_records": {
+        "text_only": 1
+      },
+      "parse_counts": {
+        "strict_final": 44,
+        "explicit_terminal_boxed": 3,
+        "undetermined": 1
+      },
+      "text_correct": 16,
+      "text_answered": 47,
+      "definite_passes": [],
+      "possible_passes": []
+    },
+    "gemini_302_pro": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            28,
+            28
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            58.333333333333336,
+            58.333333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              28,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            13,
+            13
+          ],
+          "denominator": [
+            28,
+            28
+          ],
+          "percent": [
+            46.42857142857143,
+            46.42857142857143
+          ],
+          "feasible_count_pairs": [
+            [
+              13,
+              28
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            23,
+            23
+          ],
+          "denominator": [
+            28,
+            28
+          ],
+          "percent": [
+            82.14285714285714,
+            82.14285714285714
+          ],
+          "feasible_count_pairs": [
+            [
+              23,
+              28
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            19,
+            19
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            39.583333333333336,
+            39.583333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              19,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            15,
+            15
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            31.25,
+            31.25
+          ],
+          "feasible_count_pairs": [
+            [
+              15,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            7,
+            7
+          ],
+          "denominator": [
+            15,
+            15
+          ],
+          "percent": [
+            46.666666666666664,
+            46.666666666666664
+          ],
+          "feasible_count_pairs": [
+            [
+              7,
+              15
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            12,
+            12
+          ],
+          "denominator": [
+            15,
+            15
+          ],
+          "percent": [
+            80.0,
+            80.0
+          ],
+          "feasible_count_pairs": [
+            [
+              12,
+              15
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            4,
+            4
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            8.333333333333334,
+            8.333333333333334
+          ],
+          "feasible_count_pairs": [
+            [
+              4,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          3,
+          3
+        ],
+        "C": [
+          8,
+          8
+        ],
+        "P": [
+          3,
+          3
+        ],
+        "T": [
+          6,
+          6
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 48
+      },
+      "text_correct": 19,
+      "text_answered": 48,
+      "definite_passes": [
+        "5SL4aoeSI14_00-00-00_00-00-15",
+        "BV14v411z7oc_00-00-36_00-01-06",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1eL4y1h7bW_00-00-01_00-00-12"
+      ],
+      "possible_passes": [
+        "5SL4aoeSI14_00-00-00_00-00-15",
+        "BV14v411z7oc_00-00-36_00-01-06",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1eL4y1h7bW_00-00-01_00-00-12"
+      ]
+    }
+  },
+  "C": {
+    "qwen_omni_nonthinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            45.45454545454545,
+            45.45454545454545
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            21,
+            21
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            95.45454545454545,
+            95.45454545454545
+          ],
+          "feasible_count_pairs": [
+            [
+              21,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            19,
+            19
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            39.583333333333336,
+            39.583333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              19,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            20.833333333333332,
+            20.833333333333332
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            4,
+            4
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            40.0,
+            40.0
+          ],
+          "feasible_count_pairs": [
+            [
+              4,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            90.0,
+            90.0
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            3,
+            3
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            6.25,
+            6.25
+          ],
+          "feasible_count_pairs": [
+            [
+              3,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          0,
+          0
+        ],
+        "C": [
+          6,
+          6
+        ],
+        "P": [
+          1,
+          1
+        ],
+        "T": [
+          6,
+          6
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 191,
+        "explicit_option_and_matching_text": 1
+      },
+      "text_correct": 19,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ],
+      "possible_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ]
+    },
+    "qwen_omni_thinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            12,
+            12
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            54.54545454545455,
+            54.54545454545455
+          ],
+          "feasible_count_pairs": [
+            [
+              12,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            18,
+            18
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            81.81818181818181,
+            81.81818181818181
+          ],
+          "feasible_count_pairs": [
+            [
+              18,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            18,
+            18
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            37.5,
+            37.5
+          ],
+          "feasible_count_pairs": [
+            [
+              18,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            20.833333333333332,
+            20.833333333333332
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            60.0,
+            60.0
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            90.0,
+            90.0
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            6,
+            6
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            12.5,
+            12.5
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          1,
+          1
+        ],
+        "C": [
+          3,
+          3
+        ],
+        "P": [
+          0,
+          0
+        ],
+        "T": [
+          5,
+          5
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 192
+      },
+      "text_correct": 18,
+      "text_answered": 48,
+      "definite_passes": [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "Yq61Ta2b7uE_00-00-00_00-00-15",
+        "o7BZXrnbC1o_00-00-00_00-00-09",
+        "zoUVBrZzJ1c_00-00-00_00-00-16"
+      ],
+      "possible_passes": [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "Yq61Ta2b7uE_00-00-00_00-00-15",
+        "o7BZXrnbC1o_00-00-00_00-00-09",
+        "zoUVBrZzJ1c_00-00-00_00-00-16"
+      ]
+    },
+    "gemini_302_flash": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            19,
+            19
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            39.583333333333336,
+            39.583333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              19,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            4,
+            4
+          ],
+          "denominator": [
+            19,
+            19
+          ],
+          "percent": [
+            21.05263157894737,
+            21.05263157894737
+          ],
+          "feasible_count_pairs": [
+            [
+              4,
+              19
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            7,
+            7
+          ],
+          "denominator": [
+            19,
+            19
+          ],
+          "percent": [
+            36.8421052631579,
+            36.8421052631579
+          ],
+          "feasible_count_pairs": [
+            [
+              7,
+              19
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            18,
+            25
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            37.5,
+            52.083333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              18,
+              48
+            ],
+            [
+              19,
+              48
+            ],
+            [
+              20,
+              48
+            ],
+            [
+              21,
+              48
+            ],
+            [
+              22,
+              48
+            ],
+            [
+              23,
+              48
+            ],
+            [
+              24,
+              48
+            ],
+            [
+              25,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            13,
+            14
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            27.083333333333332,
+            29.166666666666668
+          ],
+          "feasible_count_pairs": [
+            [
+              13,
+              48
+            ],
+            [
+              14,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            1,
+            1
+          ],
+          "denominator": [
+            13,
+            14
+          ],
+          "percent": [
+            7.142857142857143,
+            7.6923076923076925
+          ],
+          "feasible_count_pairs": [
+            [
+              1,
+              13
+            ],
+            [
+              1,
+              14
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            5,
+            6
+          ],
+          "denominator": [
+            13,
+            14
+          ],
+          "percent": [
+            38.46153846153846,
+            42.857142857142854
+          ],
+          "feasible_count_pairs": [
+            [
+              5,
+              13
+            ],
+            [
+              6,
+              14
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            1,
+            1
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            2.0833333333333335,
+            2.0833333333333335
+          ],
+          "feasible_count_pairs": [
+            [
+              1,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          0,
+          0
+        ],
+        "C": [
+          4,
+          5
+        ],
+        "P": [
+          0,
+          0
+        ],
+        "T": [
+          1,
+          1
+        ]
+      },
+      "unknown_constraints": 7,
+      "unknown_records": {
+        "text_only": 7
+      },
+      "parse_counts": {
+        "strict_final": 140,
+        "explicit_boxed": 40,
+        "explicit_final_after_reasoning": 5,
+        "undetermined": 7
+      },
+      "text_correct": 18,
+      "text_answered": 41,
+      "definite_passes": [
+        "BV1Ju411u7sN_00-00-01_00-00-12"
+      ],
+      "possible_passes": [
+        "BV1Ju411u7sN_00-00-01_00-00-12"
+      ]
+    }
+  },
+  "D": {
+    "qwen_omni_nonthinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            45.45454545454545,
+            45.45454545454545
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            21,
+            21
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            95.45454545454545,
+            95.45454545454545
+          ],
+          "feasible_count_pairs": [
+            [
+              21,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            19,
+            19
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            39.583333333333336,
+            39.583333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              19,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            20.833333333333332,
+            20.833333333333332
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            4,
+            4
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            40.0,
+            40.0
+          ],
+          "feasible_count_pairs": [
+            [
+              4,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            9,
+            9
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            90.0,
+            90.0
+          ],
+          "feasible_count_pairs": [
+            [
+              9,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            3,
+            3
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            6.25,
+            6.25
+          ],
+          "feasible_count_pairs": [
+            [
+              3,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          0,
+          0
+        ],
+        "C": [
+          6,
+          6
+        ],
+        "P": [
+          1,
+          1
+        ],
+        "T": [
+          6,
+          6
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 191,
+        "explicit_option_and_matching_text": 1
+      },
+      "text_correct": 19,
+      "text_answered": 48,
+      "definite_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ],
+      "possible_passes": [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ]
+    },
+    "qwen_omni_thinking": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            22,
+            22
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            45.833333333333336,
+            45.833333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              22,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            13,
+            13
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            59.09090909090909,
+            59.09090909090909
+          ],
+          "feasible_count_pairs": [
+            [
+              13,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            16,
+            16
+          ],
+          "denominator": [
+            22,
+            22
+          ],
+          "percent": [
+            72.72727272727273,
+            72.72727272727273
+          ],
+          "feasible_count_pairs": [
+            [
+              16,
+              22
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            18,
+            18
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            37.5,
+            37.5
+          ],
+          "feasible_count_pairs": [
+            [
+              18,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            10,
+            10
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            20.833333333333332,
+            20.833333333333332
+          ],
+          "feasible_count_pairs": [
+            [
+              10,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            7,
+            7
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            70.0,
+            70.0
+          ],
+          "feasible_count_pairs": [
+            [
+              7,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            7,
+            7
+          ],
+          "denominator": [
+            10,
+            10
+          ],
+          "percent": [
+            70.0,
+            70.0
+          ],
+          "feasible_count_pairs": [
+            [
+              7,
+              10
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            5,
+            5
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            10.416666666666666,
+            10.416666666666666
+          ],
+          "feasible_count_pairs": [
+            [
+              5,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          2,
+          2
+        ],
+        "C": [
+          2,
+          2
+        ],
+        "P": [
+          2,
+          2
+        ],
+        "T": [
+          5,
+          5
+        ]
+      },
+      "unknown_constraints": 0,
+      "unknown_records": {},
+      "parse_counts": {
+        "strict_final": 191,
+        "explicit_final_after_reasoning": 1
+      },
+      "text_correct": 18,
+      "text_answered": 48,
+      "definite_passes": [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1gt4y1e7U5_00-00-52_00-01-16",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ],
+      "possible_passes": [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1gt4y1e7U5_00-00-52_00-01-16",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ]
+    },
+    "gemini_302_flash": {
+      "metrics": {
+        "Acc0": {
+          "numerator": [
+            15,
+            15
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            31.25,
+            31.25
+          ],
+          "feasible_count_pairs": [
+            [
+              15,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_OC": {
+          "numerator": [
+            5,
+            6
+          ],
+          "denominator": [
+            15,
+            15
+          ],
+          "percent": [
+            33.333333333333336,
+            40.0
+          ],
+          "feasible_count_pairs": [
+            [
+              5,
+              15
+            ],
+            [
+              6,
+              15
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_OC": {
+          "numerator": [
+            8,
+            8
+          ],
+          "denominator": [
+            15,
+            15
+          ],
+          "percent": [
+            53.333333333333336,
+            53.333333333333336
+          ],
+          "feasible_count_pairs": [
+            [
+              8,
+              15
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "TextAcc": {
+          "numerator": [
+            16,
+            27
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            33.333333333333336,
+            56.25
+          ],
+          "feasible_count_pairs": [
+            [
+              16,
+              48
+            ],
+            [
+              17,
+              48
+            ],
+            [
+              18,
+              48
+            ],
+            [
+              19,
+              48
+            ],
+            [
+              20,
+              48
+            ],
+            [
+              21,
+              48
+            ],
+            [
+              22,
+              48
+            ],
+            [
+              23,
+              48
+            ],
+            [
+              24,
+              48
+            ],
+            [
+              25,
+              48
+            ],
+            [
+              26,
+              48
+            ],
+            [
+              27,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "AN": {
+          "numerator": [
+            6,
+            8
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            12.5,
+            16.666666666666668
+          ],
+          "feasible_count_pairs": [
+            [
+              6,
+              48
+            ],
+            [
+              7,
+              48
+            ],
+            [
+              8,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "CAA_AN": {
+          "numerator": [
+            1,
+            2
+          ],
+          "denominator": [
+            6,
+            8
+          ],
+          "percent": [
+            14.285714285714286,
+            28.571428571428573
+          ],
+          "feasible_count_pairs": [
+            [
+              1,
+              6
+            ],
+            [
+              1,
+              7
+            ],
+            [
+              2,
+              7
+            ],
+            [
+              2,
+              8
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "IPS_AN": {
+          "numerator": [
+            2,
+            4
+          ],
+          "denominator": [
+            6,
+            8
+          ],
+          "percent": [
+            33.333333333333336,
+            50.0
+          ],
+          "feasible_count_pairs": [
+            [
+              2,
+              6
+            ],
+            [
+              3,
+              7
+            ],
+            [
+              4,
+              8
+            ]
+          ],
+          "undefined_possible": false
+        },
+        "SCG": {
+          "numerator": [
+            0,
+            1
+          ],
+          "denominator": [
+            48,
+            48
+          ],
+          "percent": [
+            0.0,
+            2.0833333333333335
+          ],
+          "feasible_count_pairs": [
+            [
+              0,
+              48
+            ],
+            [
+              1,
+              48
+            ]
+          ],
+          "undefined_possible": false
+        }
+      },
+      "omission_extra": {
+        "O": [
+          0,
+          0
+        ],
+        "C": [
+          2,
+          3
+        ],
+        "P": [
+          1,
+          1
+        ],
+        "T": [
+          2,
+          3
+        ]
+      },
+      "unknown_constraints": 12,
+      "unknown_records": {
+        "text_only": 11,
+        "change": 1
+      },
+      "parse_counts": {
+        "strict_final": 134,
+        "explicit_boxed": 41,
+        "explicit_final_after_reasoning": 5,
+        "undetermined": 12
+      },
+      "text_correct": 16,
+      "text_answered": 37,
+      "definite_passes": [],
+      "possible_passes": [
+        "OdXmQoLL15w_00-00-00_00-00-09"
+      ]
+    }
+  }
+}

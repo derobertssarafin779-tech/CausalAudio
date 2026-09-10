@@ -1,0 +1,17 @@
+subset,config,N,SCG,O,C,P,T
+all48,qwen_omni_nonthinking,48,2,1,6,0,6
+all48,qwen_omni_thinking,48,2,1,4,3,5
+all48,gemini_302_flash,48,2,0,7,2,0
+all48,gemini_302_pro,48,5,2,6,2,5
+exclude_unresolved4,qwen_omni_nonthinking,44,2,1,6,0,5
+exclude_unresolved4,qwen_omni_thinking,44,2,1,4,3,4
+exclude_unresolved4,gemini_302_flash,44,2,0,6,2,0
+exclude_unresolved4,gemini_302_pro,44,5,1,6,2,4
+exclude_disputed7,qwen_omni_nonthinking,41,2,1,6,0,5
+exclude_disputed7,qwen_omni_thinking,41,2,1,4,3,3
+exclude_disputed7,gemini_302_flash,41,2,0,6,1,0
+exclude_disputed7,gemini_302_pro,41,5,1,5,2,4
+confirmed12,qwen_omni_nonthinking,12,0,1,3,0,1
+confirmed12,qwen_omni_thinking,12,2,0,0,0,0
+confirmed12,gemini_302_flash,12,1,0,4,0,0
+confirmed12,gemini_302_pro,12,2,0,0,1,0

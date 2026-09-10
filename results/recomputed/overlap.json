@@ -1,0 +1,188 @@
+{
+  "qwen_omni_nonthinking": {
+    "agreement": {
+      "O": {
+        "agree": 48,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 0,
+        "false_to_true": 0
+      },
+      "C": {
+        "agree": 48,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 0,
+        "false_to_true": 0
+      },
+      "P": {
+        "agree": 48,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 0,
+        "false_to_true": 0
+      },
+      "T": {
+        "agree": 48,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 0,
+        "false_to_true": 0
+      }
+    },
+    "intersection": 3,
+    "union_definite": 3,
+    "definite_sets": [
+      [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ],
+      [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ]
+    ],
+    "possible_sets": [
+      [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ],
+      [
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1wC411L7B4_00-00-00_00-00-15",
+        "VqAnet0I1jg_00-00-00_00-00-17"
+      ]
+    ],
+    "jaccard_bounds": [
+      1.0,
+      1.0
+    ]
+  },
+  "qwen_omni_thinking": {
+    "agreement": {
+      "O": {
+        "agree": 42,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 3,
+        "false_to_true": 3
+      },
+      "C": {
+        "agree": 41,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 4,
+        "false_to_true": 3
+      },
+      "P": {
+        "agree": 40,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 5,
+        "false_to_true": 3
+      },
+      "T": {
+        "agree": 46,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 1,
+        "false_to_true": 1
+      }
+    },
+    "intersection": 4,
+    "union_definite": 7,
+    "definite_sets": [
+      [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "Yq61Ta2b7uE_00-00-00_00-00-15",
+        "o7BZXrnbC1o_00-00-00_00-00-09",
+        "zoUVBrZzJ1c_00-00-00_00-00-16"
+      ],
+      [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1gt4y1e7U5_00-00-52_00-01-16",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ]
+    ],
+    "possible_sets": [
+      [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "Yq61Ta2b7uE_00-00-00_00-00-15",
+        "o7BZXrnbC1o_00-00-00_00-00-09",
+        "zoUVBrZzJ1c_00-00-00_00-00-16"
+      ],
+      [
+        "8CDI_UdPLSQ_00-00-00_00-00-16",
+        "BV1Ju411u7sN_00-00-01_00-00-12",
+        "BV1cZFzeqETG_00-08-00_00-08-08",
+        "BV1gt4y1e7U5_00-00-52_00-01-16",
+        "Yq61Ta2b7uE_00-00-00_00-00-15"
+      ]
+    ],
+    "jaccard_bounds": [
+      0.5714285714285714,
+      0.5714285714285714
+    ]
+  },
+  "gemini_302_flash": {
+    "agreement": {
+      "O": {
+        "agree": 36,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 8,
+        "false_to_true": 4
+      },
+      "C": {
+        "agree": 44,
+        "known_pairs": 47,
+        "unknown_pairs": 1,
+        "true_to_false": 0,
+        "false_to_true": 3
+      },
+      "P": {
+        "agree": 40,
+        "known_pairs": 48,
+        "unknown_pairs": 0,
+        "true_to_false": 3,
+        "false_to_true": 5
+      },
+      "T": {
+        "agree": 28,
+        "known_pairs": 33,
+        "unknown_pairs": 15,
+        "true_to_false": 2,
+        "false_to_true": 3
+      }
+    },
+    "intersection": 0,
+    "union_definite": 1,
+    "definite_sets": [
+      [
+        "BV1Ju411u7sN_00-00-01_00-00-12"
+      ],
+      []
+    ],
+    "possible_sets": [
+      [
+        "BV1Ju411u7sN_00-00-01_00-00-12"
+      ],
+      [
+        "OdXmQoLL15w_00-00-00_00-00-09"
+      ]
+    ],
+    "jaccard_bounds": [
+      0.0,
+      0.0
+    ]
+  }
+}

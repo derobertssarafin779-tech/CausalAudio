@@ -1,0 +1,66 @@
+{
+  "selection": "Post-hoc illustration: lexicographically first independently confirmed primary Qwen NT item with O,C,P,T = 1,0,1,1. Not a prevalence estimate.",
+  "eligible_item_ids": [
+    "BV18h4y1o7wM_02-12-06_02-12-18",
+    "FktR_jf0EyU_00-00-00_00-00-25",
+    "mJNRMhm_Bfc_00-00-00_00-00-29"
+  ],
+  "id": "BV18h4y1o7wM_02-12-06_02-12-18",
+  "configuration": "qwen_omni_nonthinking",
+  "question": "How many eggs were broken?",
+  "choices": [
+    "2",
+    "4",
+    "3",
+    "5"
+  ],
+  "flags": [
+    true,
+    false,
+    true,
+    true
+  ],
+  "records": [
+    {
+      "condition": "original",
+      "reference": "2",
+      "intervention": null,
+      "prediction": "2",
+      "raw_response": "FINAL: A"
+    },
+    {
+      "condition": "change",
+      "reference": "4",
+      "intervention": {
+        "op": "repeat",
+        "params": {
+          "times": 2,
+          "gap_seconds": 0.2
+        }
+      },
+      "prediction": "2",
+      "raw_response": "FINAL: A"
+    },
+    {
+      "condition": "preserve",
+      "reference": "2",
+      "intervention": {
+        "op": "gain",
+        "params": {
+          "start": 0.0,
+          "end": 120.0,
+          "db": -3
+        }
+      },
+      "prediction": "2",
+      "raw_response": "FINAL: A"
+    },
+    {
+      "condition": "text_only",
+      "reference": "2",
+      "intervention": null,
+      "prediction": "3",
+      "raw_response": "FINAL: C"
+    }
+  ]
+}

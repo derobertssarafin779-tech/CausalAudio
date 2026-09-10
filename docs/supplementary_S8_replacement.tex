@@ -1,0 +1,5 @@
+\section{Audit-sensitive omission analysis and reproducibility index}
+\label{sec:audit-extension}
+This post-hoc reporting extension reuses the primary responses and fixed audit memberships. It does not add model requests, change labels, or alter the parser. Primary raw responses are reparsed using the archived primary parser. Additional counts are calculated both as relaxed-minus-full passes and as items failing only the omitted constraint.
+
+\textbf{Reproducibility archive.} The public archive contains the Final-48 manifest and edit parameters, archived response text for protocols A--D, the primary/matched/neutral parsing rules, frozen reference summaries, audit-subset records, and an offline reproduction script. Running \texttt{python scripts/reproduce\_all.py} recomputes the reported metrics, unknown-output bounds, omission sensitivity, cross-run repeatability, Figure~2 counts, and the illustrative case without model API calls. The archive does not redistribute MMAR audio; source clips must be obtained through the official MMAR release. Machine-specific paths and provider-side metadata not required for scoring are omitted from the public release.

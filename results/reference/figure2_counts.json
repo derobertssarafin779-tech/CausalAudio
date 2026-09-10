@@ -1,0 +1,16 @@
+{
+  "qwen_omni_nonthinking": {
+    "N_OC": 22,
+    "adaptation": 9,
+    "inertia": 9,
+    "misdirected": 4,
+    "spurious": 1
+  },
+  "qwen_omni_thinking": {
+    "N_OC": 20,
+    "adaptation": 10,
+    "inertia": 8,
+    "misdirected": 2,
+    "spurious": 5
+  }
+}
